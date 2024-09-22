@@ -1,0 +1,5 @@
+/home/anu/Documents/gtkmm/gtkmm/build/CMakeFiles/interpretter-programmer.dir
+/home/anu/Documents/gtkmm/gtkmm/build/CMakeFiles/package.dir
+/home/anu/Documents/gtkmm/gtkmm/build/CMakeFiles/package_source.dir
+/home/anu/Documents/gtkmm/gtkmm/build/CMakeFiles/edit_cache.dir
+/home/anu/Documents/gtkmm/gtkmm/build/CMakeFiles/rebuild_cache.dir
